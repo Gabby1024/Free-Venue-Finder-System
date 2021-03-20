@@ -1,4 +1,4 @@
-# Free-Venue-Finder-System
+# TimeTableGenerator_
 /* System of finding free venue */
 .
 .
